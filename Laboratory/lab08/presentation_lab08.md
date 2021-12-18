@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Презентация лабораторной работы № 7
+title: Презентация лабораторной работы № 8
 author: |Макухина Анастасия
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
@@ -19,7 +19,7 @@ aspectratio: 43
 section-titles: true
 ---
 
-# Лабораторная работа №7
+# Лабораторная работа №8
 
 ## Цель работы
 
